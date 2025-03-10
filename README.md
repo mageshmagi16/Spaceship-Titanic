@@ -1,1 +1,1 @@
-# Spaceship-Titanic
+# Spaceship-Titanic Kaggle competition
