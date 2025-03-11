@@ -1,1 +1,1 @@
-# Spaceship-Titanic Kaggle competition
+# Spaceship-Titanic Kaggle problem
